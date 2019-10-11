@@ -1,0 +1,17 @@
+{
+  "name": "zanpress-blog",
+  "version": "1.0.0",
+  "description": "A self-media oriented article management platform",
+  "main": "index.js",
+  "repository": "https://github.com/zan-press/blog.git",
+  "author": "spencerwooo <spencerwoo98@gmail.com>",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "vuepress": "^1.1.0"
+  },
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  }
+}
