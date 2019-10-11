@@ -13,5 +13,13 @@
   "scripts": {
     "docs:dev": "vuepress dev docs",
     "docs:build": "vuepress build docs"
+  },
+  "devDependencies": {
+    "husky": "^3.0.8"
+  },
+  "husky": {
+    "hooks": {
+      "pre-commit": "echo \"Husky, woof! 🐶\""
+    }
   }
 }
