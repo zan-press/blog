@@ -83,7 +83,6 @@ typings/
 
 # gatsby files
 .cache/
-public
 
 # vuepress build output
 .vuepress/dist
@@ -106,7 +105,8 @@ public
 .LSOverride
 
 # Icon must end with two \r
-Icon
+Icon
+
 
 # Thumbnails
 ._*
