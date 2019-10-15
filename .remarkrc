@@ -1,0 +1,12 @@
+{
+  "settings": {
+    "bullet": "*",
+    "ruleRepetition": 3,
+    "fences": true
+  },
+  "plugins": [
+    "remark-pangu",
+    "remark-frontmatter",
+    "remark-preset-lint-recommended"
+  ]
+}
