@@ -21,7 +21,8 @@
 -   📝：整理于 Notion 的会议记录、分工情况、任务进度等
 -   📙：整理于「石墨文档」的项目文档
 -   🌏：发布于 [ZanPress 项目团队博客](https://zanpress.netlify.com/) 的每周博客
-    :::
+
+:::
 
 ![](https://i.loli.net/2019/10/15/59JFZjHoVNTk8Xh.png)
 
