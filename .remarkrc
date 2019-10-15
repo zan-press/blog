@@ -1,6 +1,6 @@
 {
   "settings": {
-    "bullet": "*",
+    "bullet": "-",
     "ruleRepetition": 3,
     "fences": true
   },
