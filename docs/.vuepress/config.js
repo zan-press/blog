@@ -20,6 +20,18 @@ module.exports = {
     sidebar: {
       '/Week1/': ['Week1-1.md']
     },
-    lastUpdated: 'Last Updated'
-  }
+    lastUpdated: 'Last Updated',
+    smoothScroll: true
+  },
+  plugins: [
+    [
+      'vuepress-plugin-container',
+      {
+        type: 'callout',
+        before: info => `<div class="callout"><p class="title">${info}</p>`,
+        after: '</div>'
+      }
+    ],
+    ['vuepress-plugin-medium-zoom']
+  ]
 }
