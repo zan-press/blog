@@ -18,9 +18,12 @@ module.exports = {
       }
     ],
     sidebar: {
-      '/Week1/': ['Week1-1.md']
+      '/Blog/': [
+        'Week1-1.md',
+        'Week1-2.md'
+      ]
     },
-    lastUpdated: 'Last Updated',
+    lastUpdated: '最后更新于',
     smoothScroll: true
   },
   plugins: [
