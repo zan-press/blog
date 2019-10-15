@@ -23,7 +23,7 @@
   },
   "husky": {
     "hooks": {
-      "pre-commit": "echo \"Woof, starting Markdown auto-format...\" && npx remark . -o"
+      "pre-commit": "echo \"Woof, starting Markdown auto-format...\" && npx remark . -o && echo \"Please commit formatted files.\""
     }
   }
 }
