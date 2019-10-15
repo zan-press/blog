@@ -1,7 +1,9 @@
 # 项目确立与任务分工 <AuthorBadge text="Week 1-1" vertical="middle"/> <AuthorBadge text="@武上博" vertical="middle"/>
 
-::: callout 💡 本文内容 2019.10.15
-本文主要介绍了本次项目的主要目标、本周的任务以及项目的具体分工。
+::: callout 💡 本文内容
+本文主要介绍了本次项目的主要目标、第一周的任务以及第一周任务的具体分工。
+::: right
+🗓 发布于 2019.10.15
 :::
 
 ## 项目任务

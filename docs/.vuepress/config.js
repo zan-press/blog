@@ -27,6 +27,13 @@ module.exports = {
     [
       'vuepress-plugin-container',
       {
+        type: 'right',
+        defaultTitle: ''
+      }
+    ],
+    [
+      'vuepress-plugin-container',
+      {
         type: 'callout',
         before: info => `<div class="callout"><p class="title">${info}</p>`,
         after: '</div>'
