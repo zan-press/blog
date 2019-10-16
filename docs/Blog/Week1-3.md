@@ -27,7 +27,7 @@
     yarn install --dev
     ```
 
--   在仓库的 `/docs/Blog` 目录下创建新的 Markdown 文件，文件命名规范为：`Week <周数>-< 每周发布的第几篇 >.md`。比如第一周发布的第二篇文章命名为 `Week1-2.md`：
+-   在仓库的 `/docs/Blog` 目录下创建新的 Markdown 文件，文件命名规范为：`Week <周数>-<每周发布的第几篇>.md`。比如第一周发布的第二篇文章命名为 `Week1-2.md`：
 
     ![](https://i.loli.net/2019/10/16/SdhkAu9LZp6IEeU.png)
 
