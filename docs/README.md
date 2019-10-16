@@ -6,7 +6,7 @@ actionLink: /Blog/Week1-1.md
 footer: 2019 ©Team Zan. Released under the CC BY-SA 4.0 International License.
 ---
 
-# 🎟 ZanPress Blog
+# 🎫 ZanPress Blog
 
 > 北京理工大学计算机学院「软件工程课程设计」小组项目。
 
@@ -47,7 +47,7 @@ ZanPress 项目的中文文档与团队博客。维护者：@TeamZan。
 
 * * *
 
-**🎟 ZanPress** ©2019 TeamZan. Released under the [MIT License](./LICENSE).
+**🎫 ZanPress** ©2019 TeamZan. Released under the [MIT License](./LICENSE).
 
 Authored and maintained by TeamZan.
 
