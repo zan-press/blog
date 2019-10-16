@@ -20,7 +20,8 @@ module.exports = {
     sidebar: {
       '/Blog/': [
         'Week1-1.md',
-        'Week1-2.md'
+        'Week1-2.md',
+        'Week1-3.md'
       ]
     },
     lastUpdated: '最后更新于',
