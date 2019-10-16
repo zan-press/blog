@@ -15,6 +15,12 @@ ZanPress 项目的中文文档与团队博客。维护者：@TeamZan。
 |  组员 | 唐誉铭 | 1120161725 |
 |  组员 | 李文煜 | 1120161717 |
 
+## 项目进展
+
+本次项目的任务和进展我们团队使用 Notion 进行管理跟踪，项目进度页面已经公开，位于：[Notion - 项目任务与进度](https://www.notion.so/spencerwoo/4d78ed88560f4507b6ee474f3151dff9?v=de9ca86fed94438e95424ad24ebbb0ca)
+
+![](https://i.loli.net/2019/10/16/fpdEIZaqBoRMwPg.png)
+
 ## 项目需求
 
 本文档描述面向自媒体的写作管理平台的用户需求。
