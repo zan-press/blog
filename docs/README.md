@@ -18,7 +18,7 @@ ZanPress 项目的中文文档与团队博客。维护者：@TeamZan。
 | :-: | :-: | :--------: |
 |  组长 | 武上博 | 1120161730 |
 |  组员 | 刘嘉伟 | 1120161718 |
-|  组员 | 唐誉铭 | 1120161725 |
+|  组员 | 唐誉铭 | 1120161724 |
 |  组员 | 李文煜 | 1120161717 |
 
 ## 项目进展
@@ -53,4 +53,4 @@ Authored and maintained by TeamZan.
 
 Created with love ♥ from BIT, Beijing.
 
-[@BIT](https://www.bit.edu.cn) · [@GitHub](https://github.com/zan-press) · [Documentation](https://zanpress.netlify.com)
+[@BIT](https://www.bit.edu.cn) · [@GitHub](https://github.com/zan-press) · [@Blog](https://zanpress.netlify.com) · [@Documentation](https://github.com/zan-press/documentation)
