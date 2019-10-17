@@ -25,7 +25,7 @@
   },
   "husky": {
     "hooks": {
-      "pre-commit": "echo \"\nWoof, starting auto format...\" && npx remark . -o && echo \"Woof, please commit newly formatted files.\n\""
+      "pre-commit": "npx remark . -o"
     }
   }
 }
