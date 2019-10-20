@@ -1,7 +1,7 @@
-# 项目确立与第二周任务分工 <AuthorBadge text="Week 2-1" vertical="middle"/> <AuthorBadge text="@唐誉铭" vertical="middle"/>
+# 第二周任务分工 <AuthorBadge text="Week 2-1" vertical="middle"/> <AuthorBadge text="@唐誉铭" vertical="middle"/>
 
 ::: callout 💡 本文内容
-本文主要介绍了本次项目的主要目标、第二周的任务以及第二周任务的具体分工。
+本文主要介绍了本次项目第二周的任务、任务的具体分工。
 ::: right
 📅 发布于 2019.10.19
 :::
