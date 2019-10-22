@@ -29,6 +29,7 @@ module.exports = {
     smoothScroll: true
   },
   plugins: [
+    'vuepress-plugin-medium-zoom',
     [
       'vuepress-plugin-container',
       {
@@ -43,7 +44,6 @@ module.exports = {
         before: info => `<div class="callout"><p class="title">${info}</p>`,
         after: '</div>'
       }
-    ],
-    ['vuepress-plugin-medium-zoom']
+    ]
   ]
 }
