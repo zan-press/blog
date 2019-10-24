@@ -13,6 +13,26 @@ module.exports = {
   themeConfig: {
     nav: [
       {
+        text: '小组博客',
+        items: [{
+          text: '项目确立与第一周任务分工',
+          link: '/Blog/Week1-1.md'
+        }, {
+          text: '第一周小组会议概要',
+          link: '/Blog/Week1-2.md'
+        }, {
+          text: '第二周任务分工',
+          link: '/Blog/Week2-1.md'
+        }, {
+          text: '第二周小组会议概要',
+          link: '/Blog/Week2-2.md'
+        }]
+      },
+      {
+        text: '博客发布规范',
+        link: '/Guidelines/Guidelines.md'
+      },
+      {
         text: 'GitHub',
         link: 'https://github.com/zan-press'
       }
@@ -21,7 +41,6 @@ module.exports = {
       '/Blog/': [
         'Week1-1.md',
         'Week1-2.md',
-        'Week1-3.md',
         'Week2-1.md',
         'Week2-2.md'
       ]
