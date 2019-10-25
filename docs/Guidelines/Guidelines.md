@@ -1,9 +1,7 @@
-# 博客发布规范 <AuthorBadge text="Week 1-3" vertical="middle"/> <AuthorBadge text="@武上博" vertical="middle"/>
+# 博客发布规范 <AuthorBadge text="Guidelines" vertical="middle"/> <AuthorBadge text="@武上博" vertical="middle"/>
 
-::: callout 💡 本文内容
+::: callout 🌎 本文内容
 本文主要介绍本博客的发布方法和撰写规范。
-::: right
-📅 发布于 2019.10.16
 :::
 
 ## 发布方式
@@ -31,16 +29,37 @@
 
     ![](https://i.loli.net/2019/10/16/SdhkAu9LZp6IEeU.png)
 
--   在博客配置文件 `docs/.vuepress/config.js` 中添加侧边导航栏链接，比如添加文件名称为 `Week1-2.md`，则在 `config.js` 第 20 行处的 `sidebar` 下添加：
+-   在博客配置文件 `docs/.vuepress/config.js` 中：
 
-    ```javascript
-    sidebar: {
-      '/Blog/': [
-        'Week1-1.md',
-        'Week1-2.md' // 添加这一行内容
-      ]
-    }
-    ```
+    -   添加侧边导航栏链接，比如添加文件名称为 `Week1-2.md`，则在 `config.js` 第 40 行处的 `sidebar` 下添加：
+
+        ```javascript
+        sidebar: {
+          '/Blog/': [
+            'Week1-1.md',
+            'Week1-2.md' // 添加这一行内容
+          ]
+        }
+        ```
+
+    -   添加上方导航栏下拉菜单，比如添加文件名称为 `Week1-2.md`，则在 `config.js` 第 14 行处的 `nav` 下添加：
+
+        ```javascript
+        nav: [
+          {
+            text: '小组博客',
+            items: [{
+              text: '项目确立与第一周任务分工',
+              link: '/Blog/Week1-1.md'
+            }, {
+              text: '第一周小组会议概要',  // 添加这一行标题
+              link: '/Blog/Week1-2.md'  // 添加这一行链接
+            }, {
+            // ...
+            }]
+          }
+        ]
+        ```
 
 -   本地预览博客：
 
