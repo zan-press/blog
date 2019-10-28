@@ -38,7 +38,7 @@ Wikipedia：软件即服务
 显而易见，平台的审核机制就是：
 
 <mermaid>
-graph TB
+graph LR
   start(START) --> submit(提交审核) --> level1(一级格式审核) --> level2(二级内容审核) --> level3(三级终审) --> stop(结束)
   level1 --格式不通过--> start
   level2 --内容不通过--> start
