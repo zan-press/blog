@@ -1,4 +1,4 @@
-# 第三周任务分工 <AuthorBadge text="Week 2-1" vertical="middle"/> <AuthorBadge text="@唐誉铭" vertical="middle"/>
+# 第三周任务分工 <AuthorBadge text="Week 3-1" vertical="middle"/> <AuthorBadge text="@李文煜" vertical="middle"/>
 
 ::: callout 💡 本文内容
 本文主要介绍了上一周提出问题的解决方法、第三周的具体任务、以及任务的分工情况。
