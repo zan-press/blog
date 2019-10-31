@@ -29,7 +29,10 @@ module.exports = {
         }, {
           text: '第三周任务分工',
           link: '/Blog/Week3-1.md'
-        }]
+        }, {
+          text: '第三周小组会议概要',
+          link: '/Blog/Week3-2.md'
+        },]
       },
       {
         text: '博客发布规范',
@@ -46,7 +49,8 @@ module.exports = {
         'Week1-2.md',
         'Week2-1.md',
         'Week2-2.md',
-        'Week3-1.md'
+        'Week3-1.md',
+        'Week3-2.md'
       ]
     },
     lastUpdated: '最后更新于',
