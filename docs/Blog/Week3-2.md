@@ -134,4 +134,6 @@
 
 ## 原型进一步设计
 
-本周，我们小组进一步完善了我们的原型设计。
+本周，我们小组进一步完善了我们的原型设计。实时的在线交互版本如下所示：
+
+<iframe style="border: none;" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FPTmmShTWCLhiowKNrGAplq%2FMain%3Fnode-id%3D5%253A0%26viewport%3D-258%252C327%252C0.35577651858329773%26scaling%3Dcontain" allowfullscreen></iframe>
