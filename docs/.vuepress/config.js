@@ -32,6 +32,9 @@ module.exports = {
         }, {
           text: '第三周小组会议概要',
           link: '/Blog/Week3-2.md'
+        }, {
+          text: '第四周任务分工',
+          link: '/Blog/Week4-1.md'
         },]
       },
       {
