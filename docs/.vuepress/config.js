@@ -53,7 +53,8 @@ module.exports = {
         'Week2-1.md',
         'Week2-2.md',
         'Week3-1.md',
-        'Week3-2.md'
+        'Week3-2.md',
+        'Week4-1.md'
       ]
     },
     lastUpdated: '最后更新于',
