@@ -35,6 +35,9 @@ module.exports = {
         }, {
           text: '第四周任务分工',
           link: '/Blog/Week4-1.md'
+        }, {
+          text: '第四周小组会议概要',
+          link: '/Blog/Week4-2.md'
         },]
       },
       {
@@ -54,7 +57,8 @@ module.exports = {
         'Week2-2.md',
         'Week3-1.md',
         'Week3-2.md',
-        'Week4-1.md'
+        'Week4-1.md',
+        'Week4-2.md'
       ]
     },
     lastUpdated: '最后更新于',
