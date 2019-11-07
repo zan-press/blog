@@ -36,9 +36,9 @@
 
 我们在接下来的工作中，每个人负责一个子系统的设计实现，具体分工情况如下：
 
--   武上博：文章撰写模块「搜索框」，增加稿件推荐和参考， 完善文章管理模块和数据分析模块的原型设计。
--   李文煜：完善热点新闻子系统和消息管理子系统的原型设计。
--   刘嘉伟：完善稿件管理子系统的原型设计，完成登录界面的原型设计。
+-   武上博：文章撰写模块「搜索框」，增加稿件推荐和参考， 完善文章管理模块和数据分析模块的原型设计，完善软件设计说明书。
+-   李文煜：完善热点新闻子系统和消息管理子系统的原型设计，完善软件设计说明书。
+-   刘嘉伟：完善稿件管理子系统的原型设计，完成登录界面的原型设计，完善软件设计说明书。
 -   唐誉铭：完成软件需求规格说明书中的系统输出描述，完成软件设计文档的数据结构部分。
 
 ## 《需求规格说明书》的进一步迭代 <AuthorBadge text="v0.7"/>
@@ -74,3 +74,17 @@
 实时的在线交互版本如下所示：
 
 <iframe style="border: none;" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FPTmmShTWCLhiowKNrGAplq%2FMain%3Fnode-id%3D311%253A1205%26scaling%3Dcontain" allowfullscreen></iframe>
+
+## 软件设计说明书 v0.5
+
+完善软件设计说明书，按照层次对系统进行分布设计。
+
+![](https://i.loli.net/2019/11/07/DmGl5znexH8Fufa.png)
+
+撰写设计基础的数据结构。
+
+![](https://i.loli.net/2019/11/07/8d9wsOCtvN1pQ7h.png)
+
+进行热点新闻算法，热点关键词算法设计。
+
+![](https://i.loli.net/2019/11/07/EOXdei9q7gFw2Bm.png)
